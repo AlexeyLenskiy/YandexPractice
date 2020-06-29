@@ -1,2 +1,2 @@
-# YandexPractice
+# Yandex.Practice
 
