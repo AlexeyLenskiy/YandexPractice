@@ -2,6 +2,9 @@
 
 **Курс Яндекс.Практикум по специальности QA Engineer**
 
+https://github.com/AlexeyLenskiy/YandexPractice/projects/1
+
+
 **Sprint 1** 
 
 https://github.com/AlexeyLenskiy/YandexPractice/tree/master/Projects/Sprint%201
