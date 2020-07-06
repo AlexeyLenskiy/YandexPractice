@@ -6,8 +6,7 @@ https://github.com/AlexeyLenskiy/YandexPractice/projects/1
 
 
 **Sprint 1** 
-
-https://github.com/AlexeyLenskiy/YandexPractice/tree/master/Projects/Sprint%201
+  https://github.com/AlexeyLenskiy/YandexPractice/tree/master/Projects/Sprint%201
 
 Составление mind-map приложения "Яндекс.Маршруты". Составление блок-схемы логики расчета стоимости и времени маршрута приложения "Яндекс.Маршруты".Разработка тест-кейсов на логику интерфейса приложения "Яндекс.Маршруты".
 
