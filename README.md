@@ -22,6 +22,6 @@
 
 
 **Sprint 4**
-        https://github.com/AlexeyLenskiy/YandexPractice/commit/db13de097076473862fb8c595de22b9cdd2d2159
+        https://github.com/AlexeyLenskiy/Yandex.Practice/blob/master/Projects/Sprint%204/project_4_sprint.docx
 
 SQL запросы, работа с СУБД PostgreSQL на удаленном сервере. Греп логов на удаленном сервере через терминал.
